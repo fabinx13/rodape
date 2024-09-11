@@ -1,0 +1,175 @@
+.borda{
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(214, 214, 214);
+    width: 1450px;
+    height: 400px;
+    top: 500px;
+    right: 20px;
+}
+
+.comprar{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 100px;
+    left: 50px;
+}
+
+.novo{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 90px;
+    left: 60px;
+}
+
+.usado{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 80px;
+    left: 60px;
+}
+
+.vender{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 120px;
+    left: 52px;
+}
+
+.vender-carro{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 110px;
+    left: 60px;
+}
+
+.gerenciar{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 100px;
+    left: 60px;
+}
+
+.serviços{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 178px;
+    left: 600px;
+}
+
+.ajuda{
+    position: relative;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 231px;
+    left: 1100px;
+}
+
+.fipe{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 240px;
+    left: 620px;
+}
+
+.financiamento{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 240px;
+    left: 620px;
+}
+
+.catalogo{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 240px;
+    left: 619px;
+}
+
+.vistoriado{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 240px;
+    left: 620px;
+}
+
+.seguro{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 240px;
+    left: 620px;
+}
+
+.vc{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 403px;
+    left: 1120px;
+}
+
+.loja{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 481px;
+    left: 1120px;
+}
+
+.segurança{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 445px;
+    left: 1120px;
+}
+
+.sobre{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 448px;
+    left: 1120px;
+}
+
+.suporte{
+    position: relative;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 448px;
+    left: 1120px;
+}
+
+.insta{
+    position: relative;
+    width: 20px;
+    bottom: 547px;
+    left: 1210px;
+}
+
+.zap{
+    position: relative;
+    width: 40px;
+    bottom: 497px;
+    left: 1160px;
+}
+
+.olp{
+    position: relative;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 400px;
+    left: 500px;
+}
